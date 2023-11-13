@@ -1,0 +1,7 @@
+C:\mphasis-B2\Day-6\JaggedArrayManipulation-10\JaggedArrayManipulation-10\bin\Debug\JaggedArrayManipulation-10.exe.config
+C:\mphasis-B2\Day-6\JaggedArrayManipulation-10\JaggedArrayManipulation-10\bin\Debug\JaggedArrayManipulation-10.exe
+C:\mphasis-B2\Day-6\JaggedArrayManipulation-10\JaggedArrayManipulation-10\bin\Debug\JaggedArrayManipulation-10.pdb
+C:\mphasis-B2\Day-6\JaggedArrayManipulation-10\JaggedArrayManipulation-10\obj\Debug\JaggedArrayManipulation-10.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-6\JaggedArrayManipulation-10\JaggedArrayManipulation-10\obj\Debug\JaggedArrayManipulation-10.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-6\JaggedArrayManipulation-10\JaggedArrayManipulation-10\obj\Debug\JaggedArrayManipulation-10.exe
+C:\mphasis-B2\Day-6\JaggedArrayManipulation-10\JaggedArrayManipulation-10\obj\Debug\JaggedArrayManipulation-10.pdb
